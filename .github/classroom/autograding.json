@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Display Hello World.",
-      "setup": "g++ -o a.out ./Homework/HW01/hw1-hello-world.cpp",
+      "setup": "g++ -o a.out ./Homework/HW01/hw1-helloworld.cpp",
       "run": "./a.out",
       "input": "",
       "output": "",
