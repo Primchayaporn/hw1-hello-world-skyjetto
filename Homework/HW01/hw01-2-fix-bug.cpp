@@ -1,8 +1,9 @@
 //TODO: #6 Fix all bugs.
-#include <studio.h>
-int main() 
-    printf( "Hello, I'm Javis (RMUTL-Version).\n" ) 
+#include <stdio.h>
+int main() {
+    printf( "Hello, I'm Javis (RMUTL-Version).\n" ) ;
     printf( "This is my first time to coding with C language.\n" ) ;
-    print( "Today is my birthday.\n" ) 
-    printf( "Say \"Happy Birthday\" to me." ) ;
+    printf( "Today is my birthday."\n" ) ;
+    printf( "Happy Birthday\" to me." ) ;
     return '0' ;
+}
